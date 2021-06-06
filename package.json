@@ -1,0 +1,19 @@
+{
+  "name": "ta-practica",
+  "version": "1.0.0",
+  "description": "Primer proyecto en Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanCML22/TA-Practica.git"
+  },
+  "author": "Juan C. Millan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanCML22/TA-Practica/issues"
+  },
+  "homepage": "https://github.com/JuanCML22/TA-Practica#readme"
+}
